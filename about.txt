@@ -20,7 +20,7 @@ git init command is used to initialize a repo
 git status is used to check the status of the repo
 
 
------------------
+----------------- 
 git config --global user.name "Shivesh"
 git config --global user.email "shivesh.leo@gmail.com"
 
