@@ -1,0 +1,37 @@
+GitHub is a 
+-------------------
+1.publishing tool
+2.version controll system
+3.collabration platform
+
+It is a distributed version control system
+----------------
+commits are 40 character hashed string
+
+3 stages
+---------------
+unmodified 
+modified
+staged
+--------------------
+We can create branches.
+---------------------------
+git init command is used to initialize a repo
+git status is used to check the status of the repo
+
+
+-----------------
+git config --global user.name "Shivesh"
+git config --global user.email "shivesh.leo@gmail.com"
+
+to see the changes
+-------------------------
+git config --list
+
+----------------
+git add filename
+to track 
+
+----
+to add all 
+git add .
