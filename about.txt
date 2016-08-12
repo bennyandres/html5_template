@@ -35,3 +35,7 @@ to track
 ----
 to add all 
 git add .
+------------
+git commit -m "any message"
+---------------
+git diff -it will tell you the previous and later change difference
