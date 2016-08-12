@@ -39,3 +39,9 @@ git add .
 git commit -m "any message"
 ---------------
 git diff -it will tell you the previous and later change difference
+--------------
+git checkout -b nameof branch--creates a branch and immediately switch to it..
+---------------
+git branch=list all branch
+
+git merge branchname
